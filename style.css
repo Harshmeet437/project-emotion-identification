@@ -1,0 +1,9 @@
+body{
+    background: rgb(106,237,16); 
+    background: linear-gradient(45deg, rgba(106,237,16,1) 0%, rgba(45,144,239,1) 42%, rgba(12,146,196,1) 65%, rgba(230,0,255,1) 100%);
+}
+b{
+    font-style:bold ;
+    font-style:italic ;
+    
+}
